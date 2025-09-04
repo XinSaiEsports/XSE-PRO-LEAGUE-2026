@@ -25,7 +25,7 @@
 
 -   Including Club Share: USD 500,000, and Player share: USD 500,000.
 
--   Player Prize Distribution
+-   Player Share Prize Distribution
 
 
     -   Champion：200,000 USD
@@ -35,7 +35,7 @@
     -   9th–16th Place：10,000 USD
 
 
--   Club Prize Distribution
+-   Club Share Prize Distribution
 
 
     -   Global VRS Rank 1–4: USD 60,000 
